@@ -25,9 +25,9 @@ $mail->Host = "smtp.mail.yahoo.fr";
 $mail->SMTPSecure = "ssl";
 $mail->Port = 465;
 $mail->SMTPAuth = true;
-$mail->Username = $email;
+//$mail->Username = $email;
 
-$mail->setFrom('jallouli.khaled@yahoo.fr',$name);
+$mail->setFrom($email,$name);
 $mail->addAddress('jallouli.khaled@yahoo.fr');
 $mail->Subject = $subject;
 $mail->Body = $message;
