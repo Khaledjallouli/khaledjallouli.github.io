@@ -4405,4 +4405,14 @@ div#bodyContent span {
     font-size: 18PX;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+
+@media (min-width: 800px) {
+    .style_img{
+        margin-top: 300px;
+    }
+}
+
+
 /*================================================ END ================================================ */
