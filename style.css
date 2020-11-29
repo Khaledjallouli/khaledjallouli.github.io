@@ -4417,5 +4417,10 @@ div#bodyContent span {
     }
 }
 
+@media (max-width: 700px) {
+    #buttons_internship{
+        margin-top: 10px;
+    }
+}
 
 /*================================================ END ================================================ */
