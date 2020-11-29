@@ -4408,12 +4408,12 @@ div#bodyContent span {
 
 
 
-@media (min-width: 800px) {
+@media (min-width: 700px) {
     .style_img{
         margin-top: 300px;
     }
     #buttons_internship{
-        margin-top: 40px;
+        margin-top: 50px;
     }
 }
 
