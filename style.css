@@ -4418,8 +4418,14 @@ div#bodyContent span {
 }
 
 @media (max-width: 700px) {
+     .style_img{
+        margin-bottom: 0px;
+    }
     #buttons_internship{
         margin-top: 10px;
+    }
+    .header-hero-area{
+        padding-bottom: 0px;
     }
 }
 
